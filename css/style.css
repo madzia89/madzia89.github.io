@@ -89,6 +89,7 @@ a, a:hover, a:active, a:visited, a:focus {
 
 .section-container {
     background: url("../img/Designed_by_Kjpargeter_at_Freepik.jpg") center fixed no-repeat;
+    background-color: #242830;
     height: 100%;
     background-size: cover;
 }
