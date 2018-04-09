@@ -1,10 +1,6 @@
-@font-face {
-    font-family: Corleone;
-    src: url('corleone/Corleone.ttf');
-}
 
 body {
-    font-family: Corleone;
+    font-family: Georgia;
     font-size: 16px;
     margin: 0;
     color: white;
