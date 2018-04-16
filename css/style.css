@@ -1,14 +1,10 @@
-@font-face {
-    font-family: Corleone;
-    src: url('corleone/Corleone.ttf');
-}
 
 body {
-    font-family: Corleone;
+    font-family: Georgia;
     font-size: 16px;
     margin: 0;
     color: white;
-    /*background: #242830;*/
+    background: #242830;
 }
 
 @media screen and (max-width: 576px) {
